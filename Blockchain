@@ -1,0 +1,24 @@
+BLOCKCHAIN
+
+1.What is your understanding of Blockchain?
+>A blockchain is a mixture of two technologies such as distributed database and cryptography. It is decentralised. Blockchain system is more secure and it is immutable.
+
+2.What is the core problem Blockchain trying to solve?
+>It is trying to solve the authenticity issues, security issues. And also before blockchain there was CRUD(create,read,update, delete) the blockchain is trying do only create and read.There is no updation or deletion of data.
+
+3.What are the few features which Blockchain will give you?
+>No hacking
+>Decentralised
+>Immutable
+>Unchangeable
+>Verifiable
+
+4.What all things does a Block contain?
+>A block contains
+>Block number
+>Transaction record
+>Previous block key
+>Mining key
+
+5.How is the verifiability of Blockchain has been attained?
+>In distributed database the same data will be stored in many different places. For example an email of same copy has been sent to 100 persons. Everyone have their individual signature after downloading the mail. If anyone of the persons among the hundred encounters change in his/her signature then with help of anyone among the remaining 99 persons , he/she should change the entire data. This is how the verifiability attained.
